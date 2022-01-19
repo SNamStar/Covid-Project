@@ -1,8 +1,10 @@
 # Covid-Project
-- Downloaded a dataset from ourworldindata.org regarding Covid
+- Downloaded a dataset from ourworldindata.org regarding Covid*
 - Manipulated the base dataset and created two new datasets for vaccination and death regarding Covid
 - Used MS SQL Server to add new columns on new information such as total cases, vaccinations, deaths, and percentage compared to population
 - Used Tableau to create dashboard that visualizes the data
+
+*Please note the original dataset was too big to be uploaded to github, thus the separation was necessary
 
 ## Resources
 
